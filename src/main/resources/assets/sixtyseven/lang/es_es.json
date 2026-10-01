@@ -1,0 +1,13 @@
+{
+  "itemGroup.sixtyseven.main": "Mod 67",
+  "item.sixtyseven.sword_67": "Espada del 67",
+  "item.sixtyseven.sword_67.tooltip": "Click derecho: MODO 67 (6,7 s de poder, 67 s de recarga). Agachado = rayo de 67",
+  "item.sixtyseven.fragment_67": "Fragmento del 67",
+  "item.sixtyseven.proyector": "Proyector",
+  "item.sixtyseven.proyector.tooltip": "Click derecho: MODO PROYECTOR. Llorás 1 s y luego, agachado, rayos rojos de 100 de daño",
+  "item.sixtyseven.helmet_67": "Casco del 67",
+  "item.sixtyseven.chestplate_67": "Peto del 67",
+  "item.sixtyseven.leggings_67": "Pantalones del 67",
+  "item.sixtyseven.boots_67": "Botas del 67",
+  "block.sixtyseven.block_67": "Bloque 67"
+}

@@ -1,0 +1,13 @@
+{
+  "itemGroup.sixtyseven.main": "Mod 67",
+  "item.sixtyseven.sword_67": "Sword of 67",
+  "item.sixtyseven.sword_67.tooltip": "Right click: MODE 67 (6.7s of power, 67s cooldown). Sneak = 67 beam",
+  "item.sixtyseven.fragment_67": "67 Fragment",
+  "item.sixtyseven.proyector": "Projector",
+  "item.sixtyseven.proyector.tooltip": "Right click: PROJECTOR MODE. Cry 1s, then sneak for 100-damage red eye beams",
+  "item.sixtyseven.helmet_67": "67 Helmet",
+  "item.sixtyseven.chestplate_67": "67 Chestplate",
+  "item.sixtyseven.leggings_67": "67 Leggings",
+  "item.sixtyseven.boots_67": "67 Boots",
+  "block.sixtyseven.block_67": "67 Block"
+}

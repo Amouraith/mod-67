@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["FFF", "F F"],
+  "key": { "F": { "item": "sixtyseven:fragment_67" } },
+  "result": { "id": "sixtyseven:helmet_67", "count": 1 }
+}

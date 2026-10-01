@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["F", "F", "S"],
+  "key": {
+    "F": { "item": "sixtyseven:fragment_67" },
+    "S": { "item": "minecraft:netherite_ingot" }
+  },
+  "result": { "id": "sixtyseven:sword_67", "count": 1 }
+}

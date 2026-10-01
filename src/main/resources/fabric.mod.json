@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "sixtyseven",
+  "version": "${version}",
+  "name": "Mod 67",
+  "description": "Espada del 67, Armadura 67, Proyector con rayos y mas.",
+  "authors": ["Vos"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": { "main": ["com.sixtyseven.SixtySevenMod"] },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
